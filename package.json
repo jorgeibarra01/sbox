@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "apollo-server": "^2.4.8",
+    "firebase": "^5.8.6",
+    "firebase-admin": "^7.0.0",
+    "graphql": "^14.1.1",
+    "http2": "^3.3.7",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
